@@ -5,8 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=piyushshuklajii&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushshuklajii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushshuklajii&label=Profile%20views&color=0e75b6&style=flat" alt="piyushshuklajii" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/piyush-shukla-646b26254" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" alt="linkedin logo"  /></a>
